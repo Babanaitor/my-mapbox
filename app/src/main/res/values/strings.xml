@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My map3m</string>
+    <string name="access_token">pk.eyJ1IjoiaGFkaWVsYmFiYSIsImEiOiJjampvYjF4emUwZ3djM3BtbXYxZjRiZ3pxIn0.VD19JzqrEbGoa0YnKNjfOA</string>
+    <string name="startButton">startButton</string>
+</resources>
